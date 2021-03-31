@@ -1,0 +1,13 @@
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\obj\Debug\AmazonS3Sample.csproj.CoreCompileInputs.cache
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AmazonS3Sample.exe.config
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AmazonS3Sample.exe
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AmazonS3Sample.pdb
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AWSSDK.Core.dll
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AWSSDK.S3.dll
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AWSSDK.Core.pdb
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AWSSDK.Core.xml
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AWSSDK.S3.pdb
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\bin\Debug\AWSSDK.S3.xml
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\obj\Debug\AmazonS3Sample.csproj.CopyComplete
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\obj\Debug\AmazonS3Sample.exe
+E:\工作\oss\.net\aws-sdk-net-samples\ConsoleSamples\AmazonS3Sample\AmazonS3Sample\obj\Debug\AmazonS3Sample.pdb
