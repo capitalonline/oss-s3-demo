@@ -31,11 +31,11 @@ public class App {
     /**
      * ACCESSKEY
      */
-    private static final String accessKey = "ca11115e30315dad8471676656a32840";
+    private static final String accessKey = "";
     /**
      * SECRETKEY
      */
-    private static final String secretKey = "a41dfe4685a2520bb713a25392c9c3b1";
+    private static final String secretKey = "";
 
     private static final String hostname = "http://oss-cnbj01.cdsgss.com"; // 北京节点
     /**
