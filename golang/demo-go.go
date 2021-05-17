@@ -22,7 +22,7 @@ import (
 const (
 	access_key = "您的AccessKey"
 	secret_key = "您的SecretKey"
-	end_point  = "您的Endpoint"
+	end_point  = "您的Endpoint"  /* http://oss-cnbj01.cdsgss.com  http://oss-fra.cdsgss.com  ...*/
 	Region     = "us-east-1"
 )
 
