@@ -26,7 +26,7 @@ class ActionDemo:
     def __init__(self):
         self.access_key = '"您的AccessKey'
         self.secret_key = "您的SecretKey"
-        self.end_point = '"您的Endpoint'
+        self.end_point = '"您的Endpoint'  # http://oss-cnbj01.cdsgss.com  http://oss-fra.cdsgss.com  ...
         self.client_type = 's3'
         self.s3_client = self.connection()
 
